@@ -1,0 +1,3 @@
+/media/khadija/3E2CC5A32CC55715/GitHub/OCR/preprocessing/build/CMakeFiles/PreprocessImage.dir
+/media/khadija/3E2CC5A32CC55715/GitHub/OCR/preprocessing/build/CMakeFiles/edit_cache.dir
+/media/khadija/3E2CC5A32CC55715/GitHub/OCR/preprocessing/build/CMakeFiles/rebuild_cache.dir
